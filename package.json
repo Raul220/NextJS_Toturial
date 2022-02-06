@@ -1,0 +1,27 @@
+{
+  "name": "nextjs_toturial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raul220/NextJS_Toturial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raul220/NextJS_Toturial/issues"
+  },
+  "homepage": "https://github.com/Raul220/NextJS_Toturial#readme",
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
